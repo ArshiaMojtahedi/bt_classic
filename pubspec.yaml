@@ -1,6 +1,6 @@
 name: bt_classic
 description: A Flutter plugin for Bluetooth Classic communication with host/server functionality, text messaging, and file transfer capabilities.
-version: 1.0.1
+version: 1.0.2
 homepage: https://motjahedi.me/btc_classic
 repository: https://github.com/ArshiaMojtahedi/bt_classic
 
